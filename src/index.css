@@ -259,7 +259,6 @@ main {
   display: grid;
   place-items: center;
 }
-
 .review {
   width: 90vw;
   max-width: var(--fixed-width);
@@ -272,7 +271,6 @@ main {
 .review:hover {
   box-shadow: var(--shadow-3);
 }
-
 .img-container {
   position: relative;
   width: 150px;
